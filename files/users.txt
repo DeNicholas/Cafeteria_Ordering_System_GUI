@@ -1,0 +1,8 @@
+ID	Username	First Name	Last Name	Email	Password	Number	Status	Security Q	Security Ans
+1	fawzanalim	Fawzan	Alim	fawzanalim@apu.edu.my	asdasdasd	010926456	Active	My favourite planet	Earth
+2	nicholas32456	Nicholas	Flamel	nicholas@apu.edu.my	asdasdasd	0123123	Active	first three letters	abc
+3	farhanalim	Farhan	Alim	farhan@staffmail.apu.edu.my	asdasdasd	017654684	Pending	second letter	b
+4	nicholastan	Nicholas	Tan	nicholas@mail.apu.edu.my	asdasdasd	0175691432	Active	what is the colour of the sky?	blue
+5	Da_Vinci	Leo	Vinci	leo@mail.apu.edu.my	asdasdasd	0148102192	Rejected	Greatest painter	me!
+6	thelegend27	nicholas	tan	nicholastan@mail.apu.edu.my	asdasdasd	0173592147	Pending	what is 1 + 1	2
+7	customer	customer	customer	customer@mail.apu.edu.my	twoplustwoisfour	432890	Active	what is 1 + 1	2

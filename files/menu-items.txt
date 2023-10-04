@@ -1,0 +1,24 @@
+Item Name	Price	Availability
+Tender Grilled Chicken	8.50	Not Available
+Steak with Fries	25.00	Available
+Fried Salmon	22.00	Available
+Japanese Bento Rice	13.00	Available
+Salad	12.00	Available
+Strawberry Smoothie	9.00	Available
+Beef Burger	100.00	Available
+Beef Noodle	14.00	Available
+Japanese Noodle	10.00	Available
+Kimchi	8.00	Not Available
+Lasagna	15.00	Not Available
+Coffee	100.00	Available
+Fruit Juice	7.00	Available
+Spaghetti	11.50	Available
+Water	1.00	Not Available
+Avacado Slice	8.00	Available
+Edamame	10.00	Available
+Chicken Chop	17.00	Available
+Fried Rice	8.00	Available
+Curry Rice	8.50	Available
+Steamed Fish	28.00	Available
+Bowl of Strawberries	7.50	Available
+Sushi	10.00	Not Available

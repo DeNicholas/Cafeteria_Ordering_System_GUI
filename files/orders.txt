@@ -1,0 +1,12 @@
+ID	Date	Time	User ID	Card Holder	Last 4 digit of card	Orders	Overall Review	Food Review	Feedback
+1	31-Aug-2022	4:04:45 pm	1	Mohammad Fawzan Alim	1111	Edamame	4	4.00	16.00	Avacado Slice	2	7.50	15.00	Salad	2	12.00	24.00	Bowl of Strawberries	4	7.50	30.00	Steak with Fries	1	25.00	25.00	Tender Grilled Chicken	3	20.00	60.00	Japanese Noodle	3	10.00	30.00	None	None	None
+2	31-Aug-2022	4:14:44 pm	1	asdasd	1111	Fried Salmon	1	22.00	22.00	Strawberry Smoothie	1	9.00	9.00	Salad	1	12.00	12.00	Steak with Fries	1	25.00	25.00	5	5	adasdasd	
+3	31-Aug-2022	7:11:06 pm	1	Fawzan	1111	Steak with Fries	3	25.00	75.00	Beef Noodle	2	14.00	28.00	Beef Burger	2	12.50	25.00	Tender Grilled Chicken	4	20.00	80.00	Fried Salmon	1	22.00	22.00	3	2	adasdasdasdasd	
+4	01-Sep-2022	5:41:15 PM	1	nicholas	0126	Steak with Fries	2	25.00	50.00	Strawberry Smoothie	1	9.00	9.00	Steamed Fish	1	28.00	28.00	Spaghetti	1	11.50	11.50	4	5	I really love the food!	
+5	01-Sep-2022	6:41:42 PM	4	nicholastan	0126	Salad	1	12.00	12.00	Japanese Bento Rice	1	13.00	13.00	Strawberry Smoothie	1	9.00	9.00	Spaghetti	2	11.50	23.00	Avacado Slice	2	7.50	15.00	Edamame	1	4.00	4.00	Bowl of Strawberries	2	7.50	15.00	Fried Rice	2	8.00	16.00	Steamed Fish	3	28.00	84.00	5	5	Absolutely amazing! APU Cafeteria should have a Michelin Star
+6	01-Sep-2022	7:10:42 PM	4	nicholas	0126	Fried Salmon	1	22.00	22.00	5	5	Good food	
+7	01-Sep-2022	7:25:17 PM	4	nicholas	0126	Fried Salmon	1	22.00	22.00	5	5	I really love the foodThe chef is like Gordon RamsayThe food was prepared really quickly	
+8	01-Sep-2022	7:29:38 PM	4	nicholas	0126	Fried Salmon	1	22.00	22.00	Steak with Fries	1	25.00	25.00	Beef Burger	1	12.50	12.50	Edamame	2	4.00	8.00	Avacado Slice	1	7.50	7.50	Bowl of Strawberries	1	7.50	7.50	4	5	Food was delicious ~~service was good~~cafeteria was huge ~~the enviroment is condusive	
+9	02-Sep-2022	3:05:38 PM	4	nicholas	0126	Beef Noodle	3	14.00	42.00	Japanese Noodle	2	10.00	20.00	Edamame	1	10.00	10.00	Avacado Slice	1	8.00	8.00	Chicken Chop	1	17.00	17.00	Curry Rice	1	8.50	8.50	5	5	It's the most amazing food i had in my life~~The ingredients are extremely fresh~~The people serving are extremely polite	
+10	03-Sep-2022	5:00:09 PM	4	nicholas	0126	Strawberry Smoothie	1	9.00	9.00	5	5	I love the food	
+11	20-Sep-2022	10:21:56 PM	4	Nicholas Tan	0126	Chicken Chop	2	17.00	34.00	Strawberry Smoothie	1	9.00	9.00	Spaghetti	1	11.50	11.50	4	5	It's the best thing ever!!!!	
